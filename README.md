@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**boomster-corp/boomster-corp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 👋 Hi Folk, we are Boomsters.
 - 👀 We are working on many different exciting projects.
 - 🌱 We'll be releasing our new app Baffy soon. The link is also here.
